@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\06_validate.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:06_validate.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\03_sales_tables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_sales_tables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\02_production_tables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02_production_tables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\01_create_database.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01_create_database.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_sales_tables.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (92))",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\03_sales_tables.sql",
+              "RelativeDocumentMoniker": "03_sales_tables.sql",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\03_sales_tables.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (92))",
+              "RelativeToolTip": "03_sales_tables.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (92))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-08T14:27:45.38Z",
+              "EditorCaption": " - (local).BikeStore (DESKTOP-0AF45JQ\\user (92))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02_production_tables.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (91))",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\02_production_tables.sql",
+              "RelativeDocumentMoniker": "02_production_tables.sql",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\02_production_tables.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (91))",
+              "RelativeToolTip": "02_production_tables.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (91))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-08T14:27:45.13Z",
+              "EditorCaption": " - (local).BikeStore (DESKTOP-0AF45JQ\\user (91))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01_create_database.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (75))",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\01_create_database.sql",
+              "RelativeDocumentMoniker": "01_create_database.sql",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\01_create_database.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (75))",
+              "RelativeToolTip": "01_create_database.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (75))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-08T14:27:44.841Z",
+              "EditorCaption": " - (local).BikeStore (DESKTOP-0AF45JQ\\user (75))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06_validate.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (58))",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\06_validate.sql",
+              "RelativeDocumentMoniker": "06_validate.sql",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\bikestore_sql\\06_validate.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (58))",
+              "RelativeToolTip": "06_validate.sql - (local).BikeStore (DESKTOP-0AF45JQ\\user (58))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-08T14:27:44.404Z",
+              "EditorCaption": " - (local).BikeStore (DESKTOP-0AF45JQ\\user (58))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
